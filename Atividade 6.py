@@ -1,0 +1,1 @@
+"""Descrição: Faça um programa que peça ao usuário para digitar o nome do professor mais fofo do senai. O programa só termina se ele digitar Anderson."""

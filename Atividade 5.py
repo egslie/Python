@@ -1,0 +1,1 @@
+"""Descrição: Faça um programa para verificar se o número é par ou impar."""

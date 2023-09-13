@@ -1,0 +1,1 @@
+"""Descrição: Faça um programa em que o usuário digite diversos números positivos. Se digitar um número negativo o programa termina."""
